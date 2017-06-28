@@ -9,5 +9,5 @@ I do this by:
   - Iterate through the results, finding the first album that matches the song name
   - Return that album as the "best" result
   
-  
+The repo contains the the .net library to do this, AmazonMusicAPI, and a simple wrapper, GetSongAlbumArt.  This obvously can be extended a lot - it's exactly what I need, and is not meant to be a generic wrapper.
   
